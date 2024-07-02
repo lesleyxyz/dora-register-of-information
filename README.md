@@ -3,7 +3,10 @@ The official password-protected excel file can be found [here](https://www.eba.e
 
 Unfortunately there is little flexibility possible to experiment with e.g. formula's, so I decided to make it easy for you and remove password protection :)
 
-## How to
+## [Download](https://github.com/lesleyxyz/dora-register-of-information/raw/main/unprotected_XLS%20Master%20Template%20DORA%20RoI%20dryrun.xlsx)
+
+## How to do it yourself
+
 1) First convert the .xlsb file to .xlsx using Excel
 2) Second rename the .xlsx file to .zip
 4) In `xl\workbook.xml`, remove the `<workbookProtection ... />` tag
